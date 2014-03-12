@@ -1,1 +1,1 @@
-Soling Sudoku in Ruby
+Solving Sudoku in Ruby
